@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\bungi\\Desktop\\EECS 4443\\Assignments\\Demo_TiltBall_87509\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\bungi\\Desktop\\EECS 4443\\Assignments\\Demo_TiltBall_87509\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\bungi\\Desktop\\EECS 4443\\Assignments\\Demo_TiltBall_87509\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,9,10,6,5,8,7,4",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,420,464,244,170,359,296,113",
+                        "endColumns": "56,43,45,51,73,60,62,56",
+                        "endOffsets": "108,459,505,291,239,415,354,165"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "112,169,213,259,311,385,446,509",
+                        "endColumns": "56,43,45,51,73,60,62,56",
+                        "endOffsets": "164,208,254,306,380,441,504,561"
+                    }
+                }
+            ]
+        }
+    ]
+}
